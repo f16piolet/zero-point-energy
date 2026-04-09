@@ -1,7 +1,9 @@
 # zero-point-energy
+<img width="600" height="464" alt="mini_magick20220601-24228-1bcusy8" src="https://github.com/user-attachments/assets/a9b72b0d-e866-4cca-94f8-ce5a55888ba8" />
 
 # Licensing:
 Creative Commons: CC BY-NC-SA 4.0
+
 This is open to the world. Use it. Improve it. Just don’t sell it without sharing the improvements.
 
 # The Science:
@@ -23,7 +25,7 @@ This is open to the world. Use it. Improve it. Just don’t sell it without shar
 ![1_Xqou5CFJQeGZse7vMFOClQ@2x](https://github.com/user-attachments/assets/565ca37e-7c9a-411e-8c9d-2d65a20a1496)
 
 # Build Instructions:
-1. Wind Your Toroids
+# Wind Your Toroids
  
 • Use plastic toroidal forms or wind free-form on coiled rings.
 
@@ -31,7 +33,7 @@ This is open to the world. Use it. Improve it. Just don’t sell it without shar
 
 • Coil count: 100 – 300 turns depending on gauge.
 
-2. Build the Bifilar Coil
+# Build the Bifilar Coil
  
 • Use two parallel copper wires, wound flat in a spiral.
 
@@ -39,7 +41,7 @@ This is open to the world. Use it. Improve it. Just don’t sell it without shar
 
 • Route leads outward to HV source and capacitor bank.
 
-3. Suspend the Dielectric Disc
+# Suspend the Dielectric Disc
  
 • Mount horizontally between the toroids, dead center.
 
@@ -47,7 +49,7 @@ This is open to the world. Use it. Improve it. Just don’t sell it without shar
 
 • Optional: inscribe sacred geometry (e.g. Flower of Life) on surface.
 
-4. Connect the HV Pulse Generator
+# Connect the HV Pulse Generator
  
 • Send positive pulses through the bifilar coil.
 
@@ -55,13 +57,13 @@ This is open to the world. Use it. Improve it. Just don’t sell it without shar
 
 • Ensure phase asymmetry: one toroid gets slightly delayed phase via tuning cap.
 
-5. Create Feedback Loop
+# Create Feedback Loop
  
 • Output from one toroid goes into input of the other, but with tuned delay.
 
 • This maintains the rotational asymmetry needed to “stir” the vacuum.
 
-6. Add Output Harvest Circuit
+# Add Output Harvest Circuit
  
 • Diode bridge → ultracapacitors → LED, voltmeter, or pulse relay.
 
